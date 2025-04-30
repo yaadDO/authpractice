@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407779072714",
+    "project_id": "onceprac-c903f",
+    "storage_bucket": "onceprac-c903f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407779072714:android:4536188e136f6603ae3233",
+        "android_client_info": {
+          "package_name": "com.once.prac.onceprac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UTlYu9A-9xfcMnvn8M8eHUMMoAGHoDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
